@@ -1,0 +1,11 @@
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\bin\Release\netcoreapp2.0\CoinTool.Api.deps.json
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\bin\Release\netcoreapp2.0\CoinTool.Api.runtimeconfig.json
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\bin\Release\netcoreapp2.0\CoinTool.Api.runtimeconfig.dev.json
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\bin\Release\netcoreapp2.0\CoinTool.Api.dll
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\bin\Release\netcoreapp2.0\CoinTool.Api.pdb
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\obj\Release\netcoreapp2.0\CoinTool.Api.csprojResolveAssemblyReference.cache
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\obj\Release\netcoreapp2.0\CoinTool.Api.csproj.CoreCompileInputs.cache
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\obj\Release\netcoreapp2.0\CoinTool.Api.AssemblyInfoInputs.cache
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\obj\Release\netcoreapp2.0\CoinTool.Api.AssemblyInfo.cs
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\obj\Release\netcoreapp2.0\CoinTool.Api.dll
+G:\OneDrive\Rainstorm Projects\CoinTool\CoinTool.Api\obj\Release\netcoreapp2.0\CoinTool.Api.pdb
